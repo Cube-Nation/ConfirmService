@@ -2,4 +2,4 @@ author: d1rty
 description: ConfirmService (dirty Version)
 main: org.lichtspiele.ConfirmService.ConfirmServicePlugin
 name: ConfirmService
-version: '1.0'
+version: "${project.version}"
